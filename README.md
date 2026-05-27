@@ -8,10 +8,10 @@ Aplicación educativa para aprender derivadas paso a paso.
 4. Regla de la cadena (nivel final con felicitación)
 
 ## Equipo
-Andrey
-Angel
-Issac
-Hector
-Balam
-Eduardo
-Alberto
+1. Andrey
+2. Angel
+3. Issac
+4. Hector
+5. Balam
+6. Eduardo
+7. Alberto
