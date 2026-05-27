@@ -8,4 +8,10 @@ Aplicación educativa para aprender derivadas paso a paso.
 4. Regla de la cadena (nivel final con felicitación)
 
 ## Equipo
-Somos 8 integrantes trabajando en GitHub.
+Andrey
+Angel
+Issac
+Hector
+Balam
+Eduardo
+Alberto
